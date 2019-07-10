@@ -2,7 +2,7 @@
 baseurl = "https://henriqueholanda.dev/"
 themesDir = "./themes"
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
+title = "Henrique Holanda - Backend Developer"
 theme = "hugo-cactus-theme"
 
 googleAnalytics = "UA-114302825-1"
