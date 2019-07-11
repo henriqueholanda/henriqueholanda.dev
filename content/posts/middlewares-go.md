@@ -1,9 +1,17 @@
----
-title: "Middlewares in Go"
-date: 2019-06-17T17:29:20-02:00
-draft: false
-comments: true
----
++++
+title = "Middlewares in Go"
+description = ""
+tags = [
+    "go",
+    "golang",
+    "development",
+]
+date = "2019-06-17"
+categories = [
+    "Development",
+    "golang",
+]
++++
 
 When we create web application with Go, the first code smell that we found is code duplicity.
 
