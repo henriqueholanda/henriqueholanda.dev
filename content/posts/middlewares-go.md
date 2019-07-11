@@ -26,7 +26,7 @@ To show you an example of implementation, let's create the following structure:
     - home.go
 /middlewares
     - authentication.go
-    - notFound.go
+    - not-found.go
 main.go
 ```
 
