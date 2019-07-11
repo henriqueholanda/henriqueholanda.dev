@@ -49,3 +49,4 @@ disqusShortname = "henriqueholanda" # Comment out to disable Disqus.
 [social]
     twitter  = "https://www.twitter.com/henriqueholanda"
     github   = "https://www.github.com/henriqueholanda"
+	email = "mailto:contato@henriqueholanda.com.br"
